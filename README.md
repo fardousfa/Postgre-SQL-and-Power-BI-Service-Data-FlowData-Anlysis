@@ -1,4 +1,4 @@
-# Postgre-SQL-Microsoft-Fabric-and-Power-BI-Desktop-Data-Anlysis
+# Postgre-SQL-Microsoft-Fabric-and-Power-BI-Service-Data-Anlysis
 Designed and implemented a secure, automated reporting solution that connects on‑premises PostgreSQL data to Power BI Service, enabling semantic modelling, interactive dashboards, and enterprise‑wide app distribution. The solution follows data governance best practices to ensure accuracy, compliance, and trust in reporting.
 
 
